@@ -1,0 +1,13 @@
+server:
+  port: 9999
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+spring:
+  security:
+    user:
+      name: admin
+      password: exampklejhasdjkhasdYUATAHkjsadkjasd8872KHUIAS
